@@ -1,0 +1,15 @@
+# aluno:		MATHEUS PIRES VILA REAL	
+# Nº:			202000560352
+
+Instruções de compilação:
+		$ make simulador				ou somente
+		$ make
+		
+Documentação:
+		$ cd docs/
+		$ doxygen doxygen_log.txt
+		
+		Os arquivos serão gerados por padrão estarão em docs/html.
+		
+Execução:
+		$ ./simulador address.txt <quadros> <algoritmo>

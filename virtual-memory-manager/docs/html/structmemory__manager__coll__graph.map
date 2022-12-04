@@ -1,0 +1,4 @@
+<map id="memory_manager" name="memory_manager">
+<area shape="rect" id="node1" title="Struct que representa o gerenciador de memória." alt="" coords="5,108,148,133"/>
+<area shape="rect" id="node2" href="$structtlb__entry.html" title="Struct que representa uma entrada da TLB." alt="" coords="37,5,117,31"/>
+</map>
